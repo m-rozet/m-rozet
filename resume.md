@@ -6,8 +6,8 @@
 Senior at the [University of Washington](https://www.washington.edu/) studying geography and data science. Graduating in June 2021. Actively seeking full-time employment after graduation in one of the leading IT companies as a program manager on an engineering team. Experience in working with apps and web design & development, related research, and QA testing.
 
 ##### EDUCATION
-**University of Washington**, College of Arts and Sciences - Seattle, WA
-*Bachelor of Arts in Data Science and Geography*                  
+**University of Washington**, College of Arts and Sciences - Seattle, WA                                                  
+*Bachelor of Arts in Data Science and Geography*
 Sept 2017 – June 2021
 - Dean’s List Winter 2018, Fall 2018, Summer 2020, Fall 2020
 - [Alpha Gamma Delta Sorority](https://alphagammadelta.org/), Director of Special Events
