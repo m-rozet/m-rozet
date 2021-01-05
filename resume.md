@@ -66,6 +66,9 @@ Jan 2019 – June 2019
 
 ### SKILLS
 > Software: Microsoft Office, Tableau, PowerBI, Lucidchart, Jira, Azure, ServiceNow, RStudio, WordPress, Google Analytics, ArcGIS, QGIS
-Programming Experience: R, Java
-Soft Skills: Written and Verbal Communication, Client Relations, Project Coordination, Negotiation, Conflict Resolution, Event Planning
-Languages: English, Russian
+
+> Programming Experience: R, Java
+
+> Soft Skills: Written and Verbal Communication, Client Relations, Project Coordination, Negotiation, Conflict Resolution, Event Planning
+
+> Languages: English, Russian
