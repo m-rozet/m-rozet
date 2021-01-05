@@ -6,7 +6,7 @@
 Senior at the [University of Washington](https://www.washington.edu/) studying geography and data science. Graduating in June 2021. Actively seeking full-time employment after graduation in one of the leading IT companies as a program manager on an engineering team. Experience in working with apps and web design & development, related research, and QA testing.
 
 ##### EDUCATION
-**University of Washington**, College of Arts and Sciences - Seattle, WA                                                  
+**University of Washington**, College of Arts and Sciences - Seattle, WA
 *Bachelor of Arts in Data Science and Geography*
 Sept 2017 – June 2021
 - Dean’s List Winter 2018, Fall 2018, Summer 2020, Fall 2020
@@ -47,7 +47,7 @@ Nov 2019 – Mar 2020
 - Created R scripts to visualize the collected data and prepare it for ad-hoc analysis
 
 **University of Washington Information School** - Seattle, WA
-*Assistant Event Planner*
+*Assistant Event Planner*                   
 Jan 2019 – June 2019
  - Coordinated the annual Capstone research exposition for the Information School
  - Facilitated relationships with multiple vendors to design graphics, publish surveys and web forms, purchase bulk supplies, and organize catering for 500+ attendees
