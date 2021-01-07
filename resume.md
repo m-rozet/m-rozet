@@ -17,7 +17,7 @@ September 2017 – June 2021
 ### WORK EXPERIENCE
 **University of Washington Information Technology** - Seattle, WA
 
-*Content Strategist*
+*Content Strategist, Productivity Platforms*
 
 May 2020 - present
 - Performed a thorough audit of the Productivity Platform team’s website content on Microsoft and Google services provided to the university’s students, faculty, and staff
