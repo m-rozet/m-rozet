@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is my respository for GEOG 458 Lab 1!
 
 <!--
 **m-rozet/m-rozet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
